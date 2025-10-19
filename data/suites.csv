@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","872","Clicking on a collapsible element reveals hidden text on the main page","Telnyx — public checks","Sun Oct 19 19:52:55 UTC 2025","passed","Sun Oct 19 19:52:56 UTC 2025","","","",""
+"","5355","Changing the Role also changes the spoken text in the ""Text to speech"" tab","Telnyx — public checks","Sun Oct 19 19:52:48 UTC 2025","failed","Sun Oct 19 19:52:53 UTC 2025","","","",""
+"","2891","Clicking on a collapsible element reveals hidden text on the ""Our Network"" page","Telnyx — public checks","Sun Oct 19 19:52:58 UTC 2025","passed","Sun Oct 19 19:53:01 UTC 2025","","","",""
+"","17854","Clicking the 'Start building for free' button opens the registration page","Telnyx — public checks","Sun Oct 19 19:52:29 UTC 2025","passed","Sun Oct 19 19:52:47 UTC 2025","","","",""
+"","1510","Clicking on the arrow reveals the next code example","Telnyx — public checks","Sun Oct 19 19:52:56 UTC 2025","passed","Sun Oct 19 19:52:58 UTC 2025","","","",""
+"","1982","Clicking the ""Contact us"" link opens it","Telnyx — public checks","Sun Oct 19 19:52:53 UTC 2025","passed","Sun Oct 19 19:52:55 UTC 2025","","","",""
