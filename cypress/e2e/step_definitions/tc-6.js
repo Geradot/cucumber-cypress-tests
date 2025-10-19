@@ -1,6 +1,5 @@
 import { When, Then } from "@badeball/cypress-cucumber-preprocessor";
 import navigation from "../../fixtures/navigation.json";
-import faq from "../../fixtures/faq.json";
 import MainPage from "../pages/MainPage";
 import OurNetworkPage from "../pages/Why Telnyx/OurNetworkPage";
 
@@ -31,7 +30,6 @@ When(
 );
 
 Then("{int} collapsible blocks are visible", (countItems) => {
-  // OurNetworkPage.checkFAQItemsVisible().should("be.equal", countItems)
   OurNetworkPage.getQuestions().should("have.length", countItems);
 });
 
