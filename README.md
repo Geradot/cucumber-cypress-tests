@@ -1,4 +1,4 @@
-# Cypress Tests for Telnyx.com
+# Cucumber + Cypress Tests for Telnyx.com
 
 ## 1️⃣ Summary of repo
 
